@@ -39,3 +39,7 @@ System.out.println(result);
 * `concat(String)`
 * `trim()`
 * `equals(String)`
+
+##### Результат ДЗ
+
+![Результат ДЗ](/img/hw_output.png)
